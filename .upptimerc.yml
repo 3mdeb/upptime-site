@@ -25,6 +25,8 @@ sites:
     url: https://vpub.dasharo.com
   - name: Dasharo iPXE HTTP server
     url: https://boot.dasharo.com
+  - name: Yocto cache for Dasharo Tools Suite (DTS)
+    url: https://cache.dasharo.com
   - name: Fobnail Project Website
     url: https://fobnail.3mdeb.com
   - name: TwPM Project Website
