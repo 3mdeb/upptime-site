@@ -11,12 +11,22 @@ sites:
     url: https://blog.3mdeb.com
   - name: 3mdeb Cloud
     url: https://cloud.3mdeb.com
+  - name: 3mdeb Text Chat
+    url: https://chat.3mdeb.com
+  - name: 3mdeb Video Chat
+    url: https://meet.3mdeb.com
   - name: 3mdeb Newsletter
     url: https://newsletter.3mdeb.com
   - name: Dasharo Documentation
     url: https://docs.dasharo.com
   - name: Dasharo Website
     url: https://dasharo.com
+  - name: Dasharo Events
+    url: https://vpub.dasharo.com
+  - name: Dasharo iPXE HTTP server
+    url: https://boot.dasharo.com
+  - name: Yocto cache for Dasharo Tools Suite (DTS)
+    url: https://cache.dasharo.com
   - name: Fobnail Project Website
     url: https://fobnail.3mdeb.com
   - name: TwPM Project Website
