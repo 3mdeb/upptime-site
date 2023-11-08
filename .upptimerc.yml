@@ -11,6 +11,8 @@ sites:
     url: https://blog.3mdeb.com
   - name: 3mdeb Cloud
     url: https://cloud.3mdeb.com
+  - name: 3mdeb Git
+    url: https://git.3mdeb.com
   - name: 3mdeb Text Chat
     url: https://chat.3mdeb.com
   - name: 3mdeb Video Chat
