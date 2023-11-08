@@ -6,11 +6,15 @@ sites:
   - name: 3mdeb Website
     url: https://3mdeb.com
   - name: 3mdeb Shop
-    url: https://shop.3mdeb.com
+    url: https://shop.3mdeb.com/shop
   - name: 3mdeb Blog
     url: https://blog.3mdeb.com
   - name: 3mdeb Cloud
     url: https://cloud.3mdeb.com
+  - name: 3mdeb Git
+    url: https://git.3mdeb.com
+  - name: 3mdeb Matrix Server
+    url: https://matrix.3mdeb.com
   - name: 3mdeb Text Chat
     url: https://chat.3mdeb.com
   - name: 3mdeb Video Chat
@@ -23,6 +27,8 @@ sites:
     url: https://dasharo.com
   - name: Dasharo Events
     url: https://vpub.dasharo.com
+  - name: Dasharo Paste Service
+    url: https://paste.dasharo.com/
   - name: Dasharo iPXE HTTP server
     url: https://boot.dasharo.com
   - name: Yocto cache for Dasharo Tools Suite (DTS)
