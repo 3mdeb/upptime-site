@@ -23,6 +23,8 @@ sites:
     url: https://dasharo.com
   - name: Dasharo Events
     url: https://vpub.dasharo.com
+  - name: Dasharo Paste Service
+    url: https://paste.dasharo.com/
   - name: Dasharo iPXE HTTP server
     url: https://boot.dasharo.com
   - name: Yocto cache for Dasharo Tools Suite (DTS)
