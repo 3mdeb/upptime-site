@@ -6,7 +6,7 @@ sites:
   - name: 3mdeb Website
     url: https://3mdeb.com
   - name: 3mdeb Shop
-    url: https://shop.3mdeb.com
+    url: https://shop.3mdeb.com/shop
   - name: 3mdeb Blog
     url: https://blog.3mdeb.com
   - name: 3mdeb Cloud
