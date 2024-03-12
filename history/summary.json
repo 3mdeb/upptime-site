@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.3mdeb.com.ico",
     "slug": "3mdeb-shop",
     "status": "up",
-    "uptime": "62.42%",
+    "uptime": "62.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.42%",
+    "uptimeYear": "62.45%",
     "time": 5041,
     "timeDay": 5010,
     "timeWeek": 5265,
@@ -167,9 +167,9 @@
     "url": "https://blog.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.3mdeb.com.ico",
     "slug": "3mdeb-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -179,6 +179,7 @@
     "timeMonth": 977,
     "timeYear": 965,
     "dailyMinutesDown": {
+      "2024-03-12": 0,
       "2023-12-07": 79
     }
   },
