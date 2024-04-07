@@ -353,19 +353,19 @@
     "url": "https://docs.dasharo.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.dasharo.com.ico",
     "slug": "dasharo-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 1299,
-    "timeWeek": 534,
-    "timeMonth": 343,
+    "timeDay": 953,
+    "timeWeek": 504,
+    "timeMonth": 341,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-04-07": 0
+      "2024-04-07": 10
     }
   },
   {
