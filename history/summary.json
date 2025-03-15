@@ -24,9 +24,9 @@
     "url": "https://shop.3mdeb.com/shop",
     "icon": "https://icons.duckduckgo.com/ip3/shop.3mdeb.com.ico",
     "slug": "3mdeb-shop",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.11%",
@@ -36,6 +36,7 @@
     "timeMonth": 10261,
     "timeYear": 8717,
     "dailyMinutesDown": {
+      "2025-03-15": 0,
       "2025-03-05": 22,
       "2025-03-04": 79,
       "2025-03-03": 158,
@@ -89,7 +90,7 @@
       "2024-07-16": 348,
       "2024-07-15": 460,
       "2024-07-14": 541,
-      "2024-07-13": 80
+      "2024-07-13": 62
     }
   },
   {
@@ -377,7 +378,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cache.dasharo.com.ico",
     "slug": "yocto-cache-for-dasharo-tools-suite-dts",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
