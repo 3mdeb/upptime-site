@@ -24,18 +24,19 @@
     "url": "https://shop.3mdeb.com/shop",
     "icon": "https://icons.duckduckgo.com/ip3/shop.3mdeb.com.ico",
     "slug": "3mdeb-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "99.11%",
-    "time": 8254,
-    "timeDay": 4488,
-    "timeWeek": 7193,
-    "timeMonth": 9900,
-    "timeYear": 8732,
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.12%",
+    "time": 8250,
+    "timeDay": 3739,
+    "timeWeek": 6773,
+    "timeMonth": 9415,
+    "timeYear": 8721,
     "dailyMinutesDown": {
+      "2025-03-21": 0,
       "2025-03-15": 20,
       "2025-03-05": 22,
       "2025-03-04": 79,
@@ -90,7 +91,7 @@
       "2024-07-16": 348,
       "2024-07-15": 460,
       "2024-07-14": 541,
-      "2024-07-13": 62
+      "2024-07-13": 37
     }
   },
   {
