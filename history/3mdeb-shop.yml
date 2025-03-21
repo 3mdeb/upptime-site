@@ -1,7 +1,7 @@
 url: https://shop.3mdeb.com/shop
-status: up
-code: 200
-responseTime: 4488
-lastUpdated: 2025-03-20T23:10:28.049Z
+status: down
+code: 500
+responseTime: 2990
+lastUpdated: 2025-03-21T08:54:32.609Z
 startTime: 2023-05-17T18:30:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
