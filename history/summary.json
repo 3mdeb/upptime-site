@@ -6,9 +6,9 @@
     "slug": "3mdeb-website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 986,
     "timeDay": 1415,
@@ -16,7 +16,6 @@
     "timeMonth": 928,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2025-04-04": 11,
       "2024-11-26": 48
     }
   },
