@@ -20,7 +20,7 @@ sites:
   - name: 3mdeb Video Chat
     url: https://meet.3mdeb.com
   - name: 3mdeb Newsletter
-    url: https://newsletter.3mdeb.com
+    url: https://listmonk.3mdeb.com
   - name: Dasharo Documentation
     url: https://docs.dasharo.com
   - name: Dasharo Website
