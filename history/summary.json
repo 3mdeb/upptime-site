@@ -345,19 +345,19 @@
     "url": "https://dasharo.com",
     "icon": "https://icons.duckduckgo.com/ip3/dasharo.com.ico",
     "slug": "dasharo-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 470,
-    "timeWeek": 714,
-    "timeMonth": 708,
-    "timeYear": 602,
+    "time": 588,
+    "timeDay": 483,
+    "timeWeek": 686,
+    "timeMonth": 701,
+    "timeYear": 601,
     "dailyMinutesDown": {
-      "2025-09-22": 1
+      "2025-09-22": 12
     }
   },
   {
