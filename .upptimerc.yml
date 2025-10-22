@@ -21,6 +21,10 @@ sites:
     url: https://meet.3mdeb.com
   - name: 3mdeb Newsletter
     url: https://listmonk.3mdeb.com
+  - name: 3mdeb Commentario (Blog)
+    url: https://comments.3mdeb.com
+  - name: 3mdeb Captcha
+    url: https://cap.3mdeb.com
   - name: Dasharo Documentation
     url: https://docs.dasharo.com
   - name: Dasharo Website
