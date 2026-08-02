@@ -174,16 +174,16 @@
     "url": "https://cloud.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.3mdeb.com.ico",
     "slug": "3mdeb-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "96.54%",
     "time": 1397,
-    "timeDay": 1624,
-    "timeWeek": 1809,
-    "timeMonth": 1689,
+    "timeDay": 1492,
+    "timeWeek": 1753,
+    "timeMonth": 1678,
     "timeYear": 1393,
     "dailyMinutesDown": {
       "2025-08-30": 59,
@@ -237,7 +237,7 @@
       "2026-06-16": 157,
       "2026-07-05": 53,
       "2026-07-04": 2,
-      "2026-08-02": 54
+      "2026-08-02": 65
     }
   },
   {
@@ -245,16 +245,16 @@
     "url": "https://git.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.3mdeb.com.ico",
     "slug": "3mdeb-git",
-    "status": "down",
+    "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "96.56%",
-    "time": 759,
-    "timeDay": 739,
-    "timeWeek": 839,
-    "timeMonth": 742,
+    "time": 758,
+    "timeDay": 679,
+    "timeWeek": 811,
+    "timeMonth": 738,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2025-08-30": 58,
@@ -306,7 +306,7 @@
       "2026-06-08": 285,
       "2026-06-16": 152,
       "2026-07-05": 50,
-      "2026-08-02": 49
+      "2026-08-02": 61
     }
   },
   {
@@ -314,16 +314,16 @@
     "url": "https://matrix.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.3mdeb.com.ico",
     "slug": "3mdeb-matrix-server",
-    "status": "down",
+    "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "96.57%",
     "time": 614,
-    "timeDay": 625,
-    "timeWeek": 658,
-    "timeMonth": 609,
+    "timeDay": 581,
+    "timeWeek": 643,
+    "timeMonth": 607,
     "timeYear": 622,
     "dailyMinutesDown": {
       "2025-08-30": 58,
@@ -375,7 +375,7 @@
       "2026-06-08": 280,
       "2026-06-16": 147,
       "2026-07-05": 45,
-      "2026-08-02": 44
+      "2026-08-02": 56
     }
   },
   {
@@ -383,16 +383,16 @@
     "url": "https://chat.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/chat.3mdeb.com.ico",
     "slug": "3mdeb-text-chat",
-    "status": "down",
+    "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "96.59%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "96.58%",
     "time": 604,
-    "timeDay": 502,
-    "timeWeek": 651,
-    "timeMonth": 589,
+    "timeDay": 474,
+    "timeWeek": 625,
+    "timeMonth": 584,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2025-08-30": 57,
@@ -444,7 +444,7 @@
       "2026-06-08": 275,
       "2026-06-16": 143,
       "2026-07-05": 40,
-      "2026-08-02": 39
+      "2026-08-02": 51
     }
   },
   {
@@ -452,16 +452,16 @@
     "url": "https://meet.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/meet.3mdeb.com.ico",
     "slug": "3mdeb-video-chat",
-    "status": "down",
+    "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "96.60%",
     "time": 743,
-    "timeDay": 757,
-    "timeWeek": 816,
-    "timeMonth": 736,
+    "timeDay": 667,
+    "timeWeek": 786,
+    "timeMonth": 731,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2025-08-30": 57,
@@ -512,7 +512,7 @@
       "2026-06-08": 270,
       "2026-06-16": 138,
       "2026-07-05": 36,
-      "2026-08-02": 35
+      "2026-08-02": 46
     }
   },
   {
@@ -520,16 +520,16 @@
     "url": "https://listmonk.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.3mdeb.com.ico",
     "slug": "3mdeb-newsletter",
-    "status": "down",
+    "status": "up",
     "uptime": "94.42%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "96.61%",
     "time": 598,
-    "timeDay": 517,
-    "timeWeek": 635,
-    "timeMonth": 587,
+    "timeDay": 482,
+    "timeWeek": 612,
+    "timeMonth": 583,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2025-08-30": 56,
@@ -580,7 +580,7 @@
       "2026-06-08": 265,
       "2026-06-16": 133,
       "2026-07-05": 31,
-      "2026-08-02": 30
+      "2026-08-02": 41
     }
   },
   {
@@ -588,16 +588,16 @@
     "url": "https://comments.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/comments.3mdeb.com.ico",
     "slug": "3mdeb-commentario-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "95.91%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "95.91%",
     "time": 847,
-    "timeDay": 1007,
-    "timeWeek": 1249,
-    "timeMonth": 1128,
+    "timeDay": 942,
+    "timeWeek": 1203,
+    "timeMonth": 1120,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2025-11-09": 23,
@@ -643,7 +643,7 @@
       "2026-06-08": 261,
       "2026-06-16": 128,
       "2026-07-05": 26,
-      "2026-08-02": 25
+      "2026-08-02": 36
     }
   },
   {
@@ -651,16 +651,16 @@
     "url": "https://cap.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/cap.3mdeb.com.ico",
     "slug": "3mdeb-captcha",
-    "status": "down",
-    "uptime": "95.93%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "95.93%",
+    "status": "up",
+    "uptime": "95.92%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "95.92%",
     "time": 709,
-    "timeDay": 633,
-    "timeWeek": 798,
-    "timeMonth": 691,
+    "timeDay": 623,
+    "timeWeek": 775,
+    "timeMonth": 689,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2025-11-09": 23,
@@ -705,7 +705,7 @@
       "2026-06-08": 256,
       "2026-06-16": 123,
       "2026-07-05": 21,
-      "2026-08-02": 20
+      "2026-08-02": 32
     }
   },
   {
@@ -753,16 +753,16 @@
     "url": "https://vpub.dasharo.com",
     "icon": "https://icons.duckduckgo.com/ip3/vpub.dasharo.com.ico",
     "slug": "dasharo-events",
-    "status": "down",
+    "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "96.52%",
-    "time": 1994,
-    "timeDay": 2547,
-    "timeWeek": 2924,
-    "timeMonth": 2683,
+    "time": 1996,
+    "timeDay": 2363,
+    "timeWeek": 2831,
+    "timeMonth": 2667,
     "timeYear": 2131,
     "dailyMinutesDown": {
       "2025-08-26": 47,
@@ -820,7 +820,7 @@
       "2026-06-08": 251,
       "2026-06-16": 118,
       "2026-07-05": 16,
-      "2026-08-02": 15
+      "2026-08-02": 27
     }
   },
   {
@@ -828,17 +828,17 @@
     "url": "https://paste.dasharo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/paste.dasharo.com.ico",
     "slug": "dasharo-paste-service",
-    "status": "down",
+    "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "96.84%",
     "time": 759,
-    "timeDay": 699,
-    "timeWeek": 829,
-    "timeMonth": 745,
-    "timeYear": 769,
+    "timeDay": 646,
+    "timeWeek": 799,
+    "timeMonth": 741,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2025-08-30": 55,
       "2025-10-16": 35,
@@ -881,7 +881,7 @@
       "2026-06-07": 63,
       "2026-06-08": 246,
       "2026-06-16": 114,
-      "2026-08-02": 10
+      "2026-08-02": 22
     }
   },
   {
@@ -889,16 +889,16 @@
     "url": "https://boot.dasharo.com",
     "icon": "https://icons.duckduckgo.com/ip3/boot.dasharo.com.ico",
     "slug": "dasharo-i-pxe-http-server",
-    "status": "down",
+    "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "96.85%",
     "time": 598,
-    "timeDay": 600,
-    "timeWeek": 615,
-    "timeMonth": 576,
+    "timeDay": 557,
+    "timeWeek": 602,
+    "timeMonth": 574,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-08-30": 55,
@@ -942,7 +942,7 @@
       "2026-06-07": 54,
       "2026-06-08": 241,
       "2026-06-16": 109,
-      "2026-08-02": 6
+      "2026-08-02": 17
     }
   },
   {
@@ -950,17 +950,17 @@
     "url": "https://cache.dasharo.com",
     "icon": "https://icons.duckduckgo.com/ip3/cache.dasharo.com.ico",
     "slug": "yocto-cache-for-dasharo-tools-suite-dts",
-    "status": "down",
+    "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "96.86%",
     "time": 588,
-    "timeDay": 603,
-    "timeWeek": 656,
-    "timeMonth": 584,
-    "timeYear": 595,
+    "timeDay": 556,
+    "timeWeek": 638,
+    "timeMonth": 582,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2025-08-30": 54,
       "2025-10-16": 34,
@@ -1003,7 +1003,7 @@
       "2026-06-07": 29,
       "2026-06-08": 237,
       "2026-06-16": 104,
-      "2026-08-02": 1
+      "2026-08-02": 12
     }
   },
   {
