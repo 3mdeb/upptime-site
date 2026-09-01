@@ -165,13 +165,13 @@
     "url": "https://cloud.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.3mdeb.com.ico",
     "slug": "3mdeb-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "96.53%",
-    "time": 1420,
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "96.52%",
+    "time": 1419,
     "timeDay": 1598,
     "timeWeek": 1792,
     "timeMonth": 1705,
@@ -228,7 +228,8 @@
       "2026-07-05": 53,
       "2026-07-04": 2,
       "2026-08-02": 125,
-      "2026-08-09": 55
+      "2026-08-09": 55,
+      "2026-09-01": 54
     }
   },
   {
@@ -236,12 +237,12 @@
     "url": "https://git.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.3mdeb.com.ico",
     "slug": "3mdeb-git",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "96.55%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "96.54%",
     "time": 760,
     "timeDay": 615,
     "timeWeek": 810,
@@ -297,7 +298,8 @@
       "2026-06-16": 152,
       "2026-07-05": 50,
       "2026-08-02": 116,
-      "2026-08-09": 50
+      "2026-08-09": 50,
+      "2026-09-01": 49
     }
   },
   {
@@ -305,13 +307,13 @@
     "url": "https://matrix.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.3mdeb.com.ico",
     "slug": "3mdeb-matrix-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "96.57%",
-    "time": 617,
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "96.56%",
+    "time": 616,
     "timeDay": 612,
     "timeWeek": 647,
     "timeMonth": 591,
@@ -366,7 +368,8 @@
       "2026-06-16": 147,
       "2026-07-05": 45,
       "2026-08-02": 106,
-      "2026-08-09": 45
+      "2026-08-09": 45,
+      "2026-09-01": 44
     }
   },
   {
@@ -374,12 +377,12 @@
     "url": "https://chat.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/chat.3mdeb.com.ico",
     "slug": "3mdeb-text-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "96.58%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "96.57%",
     "time": 606,
     "timeDay": 475,
     "timeWeek": 652,
@@ -435,7 +438,8 @@
       "2026-06-16": 143,
       "2026-07-05": 40,
       "2026-08-02": 96,
-      "2026-08-09": 40
+      "2026-08-09": 40,
+      "2026-09-01": 40
     }
   },
   {
@@ -443,13 +447,13 @@
     "url": "https://meet.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/meet.3mdeb.com.ico",
     "slug": "3mdeb-video-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "96.59%",
-    "time": 748,
+    "time": 747,
     "timeDay": 619,
     "timeWeek": 865,
     "timeMonth": 739,
@@ -503,7 +507,8 @@
       "2026-06-16": 138,
       "2026-07-05": 36,
       "2026-08-02": 86,
-      "2026-08-09": 36
+      "2026-08-09": 36,
+      "2026-09-01": 35
     }
   },
   {
@@ -511,11 +516,11 @@
     "url": "https://listmonk.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.3mdeb.com.ico",
     "slug": "3mdeb-newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "94.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "96.60%",
     "time": 591,
     "timeDay": 688,
@@ -571,7 +576,8 @@
       "2026-06-16": 133,
       "2026-07-05": 31,
       "2026-08-02": 77,
-      "2026-08-09": 31
+      "2026-08-09": 31,
+      "2026-09-01": 30
     }
   },
   {
@@ -579,11 +585,11 @@
     "url": "https://comments.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/comments.3mdeb.com.ico",
     "slug": "3mdeb-commentario-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "96.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "96.28%",
     "time": 872,
     "timeDay": 1074,
@@ -635,7 +641,8 @@
       "2026-06-16": 128,
       "2026-07-05": 26,
       "2026-08-02": 67,
-      "2026-08-09": 26
+      "2026-08-09": 26,
+      "2026-09-01": 25
     }
   },
   {
@@ -643,11 +650,11 @@
     "url": "https://cap.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/cap.3mdeb.com.ico",
     "slug": "3mdeb-captcha",
-    "status": "up",
+    "status": "down",
     "uptime": "96.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "96.30%",
     "time": 708,
     "timeDay": 613,
@@ -698,7 +705,8 @@
       "2026-06-16": 123,
       "2026-07-05": 21,
       "2026-08-02": 58,
-      "2026-08-09": 21
+      "2026-08-09": 21,
+      "2026-09-01": 20
     }
   },
   {
@@ -746,13 +754,13 @@
     "url": "https://vpub.dasharo.com",
     "icon": "https://icons.duckduckgo.com/ip3/vpub.dasharo.com.ico",
     "slug": "dasharo-events",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "96.53%",
-    "time": 2091,
+    "time": 2093,
     "timeDay": 2476,
     "timeWeek": 3047,
     "timeMonth": 2718,
@@ -812,7 +820,8 @@
       "2026-06-16": 118,
       "2026-07-05": 16,
       "2026-08-02": 48,
-      "2026-08-09": 16
+      "2026-08-09": 16,
+      "2026-09-01": 15
     }
   },
   {
@@ -820,12 +829,12 @@
     "url": "https://paste.dasharo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/paste.dasharo.com.ico",
     "slug": "dasharo-paste-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "96.85%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "96.84%",
     "time": 764,
     "timeDay": 637,
     "timeWeek": 912,
@@ -872,7 +881,8 @@
       "2026-06-07": 63,
       "2026-06-08": 246,
       "2026-06-16": 114,
-      "2026-08-02": 38
+      "2026-08-02": 38,
+      "2026-09-01": 11
     }
   },
   {
@@ -880,12 +890,12 @@
     "url": "https://boot.dasharo.com",
     "icon": "https://icons.duckduckgo.com/ip3/boot.dasharo.com.ico",
     "slug": "dasharo-i-pxe-http-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "96.86%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "96.85%",
     "time": 599,
     "timeDay": 521,
     "timeWeek": 633,
@@ -932,7 +942,8 @@
       "2026-06-07": 54,
       "2026-06-08": 241,
       "2026-06-16": 109,
-      "2026-08-02": 17
+      "2026-08-02": 17,
+      "2026-09-01": 6
     }
   },
   {
@@ -940,10 +951,10 @@
     "url": "https://cache.dasharo.com",
     "icon": "https://icons.duckduckgo.com/ip3/cache.dasharo.com.ico",
     "slug": "yocto-cache-for-dasharo-tools-suite-dts",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.87%",
     "time": 593,
@@ -991,7 +1002,8 @@
       "2026-05-14": 43,
       "2026-06-07": 29,
       "2026-06-08": 237,
-      "2026-06-16": 104
+      "2026-06-16": 104,
+      "2026-09-01": 1
     }
   },
   {
