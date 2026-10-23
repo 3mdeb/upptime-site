@@ -14,7 +14,7 @@
     "timeDay": 1341,
     "timeWeek": 1111,
     "timeMonth": 1141,
-    "timeYear": 1069,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2025-11-27": 33,
       "2025-12-04": 53,
@@ -42,12 +42,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.30%",
     "time": 7272,
     "timeDay": 9867,
     "timeWeek": 6599,
     "timeMonth": 11969,
-    "timeYear": 7445,
+    "timeYear": 7516,
     "dailyMinutesDown": {
       "2025-10-28": 27,
       "2025-10-31": 18,
@@ -142,17 +142,17 @@
     "url": "https://cloud.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.3mdeb.com.ico",
     "slug": "3mdeb-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "96.67%",
-    "time": 1446,
-    "timeDay": 1900,
-    "timeWeek": 1695,
-    "timeMonth": 1665,
-    "timeYear": 1439,
+    "time": 1444,
+    "timeDay": 1288,
+    "timeWeek": 1568,
+    "timeMonth": 1634,
+    "timeYear": 1437,
     "dailyMinutesDown": {
       "2025-11-09": 26,
       "2025-11-26": 401,
@@ -203,7 +203,8 @@
       "2026-08-02": 125,
       "2026-08-09": 55,
       "2026-09-01": 123,
-      "2026-09-27": 164
+      "2026-09-27": 164,
+      "2026-10-23": 1
     }
   },
   {
@@ -221,7 +222,7 @@
     "timeDay": 863,
     "timeWeek": 719,
     "timeMonth": 760,
-    "timeYear": 764,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2025-11-09": 26,
       "2025-11-26": 402,
@@ -425,7 +426,7 @@
     "timeDay": 1019,
     "timeWeek": 743,
     "timeMonth": 777,
-    "timeYear": 748,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2025-11-09": 24,
       "2025-11-26": 402,
@@ -492,7 +493,7 @@
     "timeDay": 672,
     "timeWeek": 590,
     "timeMonth": 631,
-    "timeYear": 598,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2025-11-09": 24,
       "2025-11-26": 402,
@@ -550,7 +551,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/comments.3mdeb.com.ico",
     "slug": "3mdeb-commentario-blog",
     "status": "up",
-    "uptime": "96.76%",
+    "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
@@ -559,7 +560,7 @@
     "timeDay": 1290,
     "timeWeek": 1108,
     "timeMonth": 1224,
-    "timeYear": 918,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2025-11-09": 23,
       "2025-11-26": 402,
@@ -616,11 +617,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cap.3mdeb.com.ico",
     "slug": "3mdeb-captcha",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "96.77%",
+    "uptimeYear": "96.78%",
     "time": 712,
     "timeDay": 825,
     "timeWeek": 721,
@@ -710,7 +711,7 @@
     "timeDay": 697,
     "timeWeek": 766,
     "timeMonth": 704,
-    "timeYear": 646,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-12-24": 36
     }
@@ -803,7 +804,7 @@
     "timeDay": 817,
     "timeWeek": 783,
     "timeMonth": 807,
-    "timeYear": 779,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2025-11-09": 22,
       "2025-11-26": 402,
@@ -864,7 +865,7 @@
     "timeDay": 638,
     "timeWeek": 589,
     "timeMonth": 635,
-    "timeYear": 602,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2025-11-09": 21,
       "2025-11-26": 402,
@@ -1003,7 +1004,7 @@
     "timeDay": 297,
     "timeWeek": 288,
     "timeMonth": 320,
-    "timeYear": 279,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   }
 ]
