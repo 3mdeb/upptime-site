@@ -141,11 +141,11 @@
     "url": "https://cloud.3mdeb.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.3mdeb.com.ico",
     "slug": "3mdeb-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.34%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "94.33%",
+    "uptimeMonth": "98.69%",
     "uptimeYear": "96.57%",
     "time": 1442,
     "timeDay": 1361,
@@ -203,7 +203,8 @@
       "2026-08-09": 55,
       "2026-09-01": 123,
       "2026-09-27": 164,
-      "2026-10-23": 571
+      "2026-10-23": 571,
+      "2026-10-29": 1
     }
   },
   {
@@ -616,7 +617,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cap.3mdeb.com.ico",
     "slug": "3mdeb-captcha",
     "status": "up",
-    "uptime": "96.83%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
